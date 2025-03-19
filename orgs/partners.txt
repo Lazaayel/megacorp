@@ -1,3 +1,7 @@
 partner list
+<<<<<<< HEAD
 SalesInc
+=======
+
+>>>>>>> d902724 (F: multiculti)
 TheStartup
